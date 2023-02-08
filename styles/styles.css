@@ -192,7 +192,7 @@
         border-right: none;
         border-bottom: 5px solid var(--bio-border-color);
     }
-
+/*bio container*/
     #bio-container h2{
         display: none;
     }
